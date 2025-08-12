@@ -8,7 +8,7 @@
 
 **Evaluation Metrics:** Precision, Recall, mAP50, mAP50-95
 
-**Best Results:** Precision: 0.805, Recall: 0.815, mAP50: 0.858, mAP50-95: 0.492
+**Best Results:** Precision: 0.795, Recall: 0.831, mAP50: 0.88, mAP50-95: 0.515
 
 ## Files
 - `Flower_Detector.ipynb`: Data preprocessing, model training, tuning, and evaluation
